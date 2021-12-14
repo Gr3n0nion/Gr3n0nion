@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Jasper/Ein/Razor
-- 👀 I’m interested in visual novels and psychological horror
+- 🌱 Hi, I’m Jasper/Ein/Razor
+- 💞️ I’m interested in visual novels and psychological horror
 - 🌱 I’m currently learning everything 
 - 💞️ I’m looking to collaborate once I learn the basics
 
